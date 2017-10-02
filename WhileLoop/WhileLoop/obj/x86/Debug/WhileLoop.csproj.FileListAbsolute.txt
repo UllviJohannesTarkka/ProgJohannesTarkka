@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/WhileLoop/WhileLoop/obj/x86/Debug/WhileLoop.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/WhileLoop/WhileLoop/bin/Debug/WhileLoop.exe
+/Users/johannestarkka/Projects/WhileLoop/WhileLoop/bin/Debug/WhileLoop.pdb
+/Users/johannestarkka/Projects/WhileLoop/WhileLoop/obj/x86/Debug/WhileLoop.exe
+/Users/johannestarkka/Projects/WhileLoop/WhileLoop/obj/x86/Debug/WhileLoop.pdb

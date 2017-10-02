@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/Heltal/Heltal/bin/Debug/Heltal.exe
+/Users/johannestarkka/Projects/Heltal/Heltal/bin/Debug/Heltal.pdb
+/Users/johannestarkka/Projects/Heltal/Heltal/obj/x86/Debug/Heltal.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/Heltal/Heltal/obj/x86/Debug/Heltal.exe
+/Users/johannestarkka/Projects/Heltal/Heltal/obj/x86/Debug/Heltal.pdb

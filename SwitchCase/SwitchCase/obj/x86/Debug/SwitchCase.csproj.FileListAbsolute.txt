@@ -1,0 +1,6 @@
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/bin/Debug/SwitchCase.exe
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/bin/Debug/SwitchCase.pdb
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.exe
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.pdb
+/Users/johannestarkka/Projects/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csprojResolveAssemblyReference.cache

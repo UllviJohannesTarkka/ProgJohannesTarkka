@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/VariablerSynlighet/VariablerSynlighet/bin/Debug/VariablerSynlighet.exe
+/Users/johannestarkka/Projects/VariablerSynlighet/VariablerSynlighet/bin/Debug/VariablerSynlighet.pdb
+/Users/johannestarkka/Projects/VariablerSynlighet/VariablerSynlighet/obj/x86/Debug/VariablerSynlighet.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/VariablerSynlighet/VariablerSynlighet/obj/x86/Debug/VariablerSynlighet.exe
+/Users/johannestarkka/Projects/VariablerSynlighet/VariablerSynlighet/obj/x86/Debug/VariablerSynlighet.pdb

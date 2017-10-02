@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{633FFBE7-1F43-4AC6-AAC0-94C06123A5D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Primtal/Program.cs">
+    <Files>
+      <File FileName="Primtal/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Primtal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

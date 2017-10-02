@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/MyFirstProject/MyFirstProject/bin/Debug/MyFirstProject.exe
+/Users/johannestarkka/Projects/MyFirstProject/MyFirstProject/bin/Debug/MyFirstProject.pdb
+/Users/johannestarkka/Projects/MyFirstProject/MyFirstProject/obj/x86/Debug/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/MyFirstProject/MyFirstProject/obj/x86/Debug/MyFirstProject.exe
+/Users/johannestarkka/Projects/MyFirstProject/MyFirstProject/obj/x86/Debug/MyFirstProject.pdb

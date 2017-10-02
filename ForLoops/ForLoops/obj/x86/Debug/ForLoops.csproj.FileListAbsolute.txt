@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.exe
+/Users/johannestarkka/Projects/ForLoops/ForLoops/bin/Debug/ForLoops.pdb
+/Users/johannestarkka/Projects/ForLoops/ForLoops/obj/x86/Debug/ForLoops.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/ForLoops/ForLoops/obj/x86/Debug/ForLoops.exe
+/Users/johannestarkka/Projects/ForLoops/ForLoops/obj/x86/Debug/ForLoops.pdb

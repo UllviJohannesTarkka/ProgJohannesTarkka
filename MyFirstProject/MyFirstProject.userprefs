@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{DFBC2FA5-237D-4D10-96DE-9E123373EC2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Documents/GitHub/ProgJohannesTarkka/MyFirstProgram">
+    <Files>
+      <File FileName="../../Documents/GitHub/ProgJohannesTarkka/MyFirstProgram" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

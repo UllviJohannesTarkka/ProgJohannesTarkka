@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D2A5CDB0-13A4-4436-B320-B289F97C7879}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrageSport/Program.cs">
+    <Files>
+      <File FileName="FrageSport/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FrageSport PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/johannestarkka/Projects/Primtal/Primtal/bin/Debug/Primtal.exe
+/Users/johannestarkka/Projects/Primtal/Primtal/bin/Debug/Primtal.pdb
+/Users/johannestarkka/Projects/Primtal/Primtal/obj/x86/Debug/Primtal.csproj.CoreCompileInputs.cache
+/Users/johannestarkka/Projects/Primtal/Primtal/obj/x86/Debug/Primtal.exe
+/Users/johannestarkka/Projects/Primtal/Primtal/obj/x86/Debug/Primtal.pdb
